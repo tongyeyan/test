@@ -9,4 +9,3 @@
 
         setcookie('count',$count);
         echo $count;
-?>
